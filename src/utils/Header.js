@@ -7,7 +7,7 @@ function HomeHeader(img, children) {
 
 const IndexHeader = styled.div`
 min-height: calc(100vh - 68px)
-background:  
+background:  #cefede
 
 `;
 
